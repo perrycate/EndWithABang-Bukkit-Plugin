@@ -1,0 +1,7 @@
+name: EndWithABang
+main: io.github.TheGuyWithTheFace.EndWithABang.EndWithABang
+version: 1.0
+commands:
+  bang:
+    description: Kills player with explosion
+    usage: /<command>
